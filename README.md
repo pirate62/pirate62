@@ -24,6 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pirate62&show_icons=true" />
 </picture>
 
+
+
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="VSCode"src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -34,7 +36,8 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   </p>
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
 <!---
 pirate62/pirate62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
