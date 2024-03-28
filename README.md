@@ -1,9 +1,9 @@
 _____
-# About me
+# _**About me**_
 
 Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spending hours searching for an invisible error, like looking for a needle in a haystack. Or those nights when I stay awake, trying to understand why my masterpiece looks more like a child’s scribble than the Mona Lisa.
 
-But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare), I’m your man!😁
+But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare)😂, I’m your man!😁😎
 
 Otherwise my hobbies are poker, chess, coding of course :) and music. I really like new technologies and everything related to AI.
 
