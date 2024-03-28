@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Jonathan 
 - 👨 I'm a web developer from the <b>Northern France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><br/>
 - 👀 I am interested in the development of new technologies and AI
-- 🌱 I am currently training at Simplon, I am looking to develop and deepen my knowledge and skills
+- 🌱 I am currently in training at Simplon, I am looking to develop and deepen my knowledge and skills
 
 <p>
   <a href='https://www.linkedin.com/in/jonathan-gorczyca-8157932a7/'>
