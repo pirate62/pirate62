@@ -1,9 +1,8 @@
-# Who am i
+#                                             About me
 
-- 👋 Hi, I’m @Jonathan 
-- 👨 I'm a web developer from the <b>Northern France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><br/>
-- 👀 I am interested in the development of new technologies and AI
-- 🌱 I am currently in training at Simplon, I am looking to develop and deepen my knowledge and skills
+Sometimes, my passion for coding can turn into a nightmare. Imagine spending hours searching for an invisible error, like looking for a needle in a haystack. Or those nights when I stay awake, trying to understand why my masterpiece looks more like a child’s scribble than the Mona Lisa.
+
+But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare), I’m your man!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
 
