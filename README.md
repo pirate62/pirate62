@@ -5,7 +5,7 @@ Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spen
 
 But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare)😂, I’m your man!😁😎
 
-Otherwise my hobbies are poker, chess, coding of course :) and music. I really like new technologies and everything related to AI.
+Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really like new technologies and everything related to AI.
 
 <br>
 
