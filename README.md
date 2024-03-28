@@ -5,6 +5,8 @@ Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spen
 
 But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare), I’m your man!😁
 
+Otherwise my hobbies are poker, chess, coding of course :) and music. I really like new technologies and everything related to AI.
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
@@ -45,6 +47,7 @@ But despite everything, I wouldn’t change my career for anything in the world.
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white": />
   </p>
   
 
