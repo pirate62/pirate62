@@ -1,5 +1,5 @@
 _____
-#                                                         About me
+# About me
 
 Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spending hours searching for an invisible error, like looking for a needle in a haystack. Or those nights when I stay awake, trying to understand why my masterpiece looks more like a child’s scribble than the Mona Lisa.
 
