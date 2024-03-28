@@ -9,8 +9,6 @@ But despite everything, I wouldn’t change my career for anything in the world.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
 
-<br>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pirate62&show_icons=true&theme=dark"
@@ -24,9 +22,9 @@ But despite everything, I wouldn’t change my career for anything in the world.
 </picture>
 
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&theme=radical&hide_langs_below=8">
+    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&theme=radical&hide_langs_below=8">
     <div style="display:block;width:400px;height:100%;padding:5px;">
-        <img src="https://streak-stats.demolab.com/?user=pirate62&theme=tokyonight&locale=fr" style="width:400px;">
+        <br><img src="https://streak-stats.demolab.com/?user=pirate62&theme=tokyonight&locale=fr" style="width:400px;">
     </div>
 </div>
 </div>
@@ -37,9 +35,6 @@ But despite everything, I wouldn’t change my career for anything in the world.
 </p>
     
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:jonathan.gorczyca62110@gmail.com)
-
-
-
 
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81B?style=flat-square&logo=javascript&logoColor=white" />
