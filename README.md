@@ -5,12 +5,7 @@
 - 👀 I am interested in the development of new technologies and AI
 - 🌱 I am currently in training at Simplon, I am looking to develop and deepen my knowledge and skills
 
-<p>
-  <a href='https://www.linkedin.com/in/jonathan-gorczyca-8157932a7/'>
-        <img src='https://img.shields.io/badge/linkedin-darkblue'>
-</p>
-    
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:jonathan.gorczyca62110@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
 
 <picture>
   <source
@@ -25,6 +20,28 @@
 </picture>
 
 
+<picture>
+  
+</picture>
+
+
+<div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&theme=radical&hide_langs_below=8">
+    <div style="display:block;width:400px;height:100%;padding:5px;">
+        <img src="https://streak-stats.demolab.com/?user=pirate62&theme=tokyonight&locale=fr" style="width:400px;">
+    </div>
+</div>
+</div>
+
+<p>
+  <a href='https://www.linkedin.com/in/jonathan-gorczyca-8157932a7/'>
+        <img src='https://img.shields.io/badge/linkedin-darkblue'>
+</p>
+    
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:jonathan.gorczyca62110@gmail.com)
+
+
+
 
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81B?style=flat-square&logo=javascript&logoColor=white" />
@@ -37,7 +54,7 @@
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   </p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirate62&hide_progress=true)
+
 <!---
 pirate62/pirate62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
