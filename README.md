@@ -1,7 +1,7 @@
 _____
 # _**About me**_
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionné+par+le+code,+je+transforme+les+idées+en+réalités+numériques.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Je+transforme+les+idées+en+réalités+numériques.)](https://git.io/typing-svg)
 
 Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spending hours searching for an invisible error, like looking for a needle in a haystack. Or those nights when I stay awake, trying to understand why my masterpiece looks more like a child’s scribble than the Mona Lisa.
 
