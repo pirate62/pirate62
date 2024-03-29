@@ -1,3 +1,5 @@
+
+https://miro.medium.com/v2/resize:fit:720/format:webp/1*tsi75heHTuQivnHienshkw.png
 _____
 # _**About me**_
 
@@ -34,6 +36,11 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
 </div>
 <br>
 <p>
+
+
+
+
+  
   <a href='https://www.linkedin.com/in/jonathan-gorczyca/'>
         <img src='https://img.shields.io/badge/linkedin-darkblue'>
 </p>
