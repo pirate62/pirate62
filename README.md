@@ -60,7 +60,7 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-node updater.js ${{ github.repository_owner }} <themeName>
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=pirate62=2&bg=222f2e&text=ff0000)](https://medium.com/@omidnikrah)
 
 <!---
 pirate62/pirate62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
