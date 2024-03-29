@@ -32,7 +32,7 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
 </div>
 <br>
 <p>
-  <a href='https://www.linkedin.com/in/jonathan-gorczyca-8157932a7/'>
+  <a href='www.linkedin.com/in/jonathan-gorczyca'>
         <img src='https://img.shields.io/badge/linkedin-darkblue'>
 </p>
     
