@@ -60,7 +60,7 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=pirate62=2&bg=222f2e&text=ff0000)](https://medium.com/@pirate62)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!---
 pirate62/pirate62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
