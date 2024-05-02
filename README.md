@@ -3,8 +3,6 @@
 _____
 # _**About me**_
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+coder,+digital+creator)](https://git.io/typing-svg)
-
 Sometimes, my passion for coding can turn into a nightmare.🙃🤪 Imagine spending hours searching for an invisible error, like looking for a needle in a haystack. Or those nights when I stay awake, trying to understand why my masterpiece looks more like a child’s scribble than the Mona Lisa.
 
 But despite everything, I wouldn’t change my career for anything in the world. After all, who else can say that they create universes with their keyboard? So, if you’re looking for a web developer who loves his work (even when it turns into a nightmare)😂, I’m your man!😁😎
@@ -48,7 +46,6 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:jonathan.gorczyca62110@gmail.com)
 
   <p>
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,10 +58,7 @@ Otherwise my hobbies are poker, chess, coding of course 😁 and music. I really
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white": />
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Freecode Camp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-    <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       </p>
   
 
